@@ -26,7 +26,7 @@ The goal of this project is to provide a simple interface where users can input 
 # Project Structure
 
 
-Healthcare app2/
+Healthcare app/
 │
 ├── app.py                  # Flask application
 ├── Training model.py       # Model training script
